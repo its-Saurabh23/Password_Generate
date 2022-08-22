@@ -1,0 +1,11 @@
+import the random module or array
+
+Take listy one by one of a manner of uppercase,loercase,symbols 
+
+Add all the list to fome an Array
+
+Now we are selecting the character one by one from above 
+
+Combine all the character which we are getting randomley
+
+create a loop for converting temporary password into array and shuffle
